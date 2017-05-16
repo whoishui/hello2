@@ -20,3 +20,20 @@
 2. 二行表格
 3. 三行表格
 4. 四行表格
+
+`
+<html>
+<body>
+
+<script type="text/javascript">
+
+var d = new Date()
+d.setFullYear(1992,10,3)
+document.write(d)
+
+</script>
+
+</body>
+</html>
+
+`
